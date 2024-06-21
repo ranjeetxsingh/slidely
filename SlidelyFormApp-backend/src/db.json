@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Ranjeet Singh",
+    "email": "ranjeet.fb12@gmail.com",
+    "phone": "9696942692",
+    "github_link": "https://github.com/ranjeetxsingh",
+    "stopwatch_time": 36
+  },
+  {
+    "id": 2,
+    "name": "Vikas Kumar",
+    "email": "vikas@gmail.com",
+    "phone": "9935158762",
+    "github_link": "www.google.com",
+    "stopwatch_time": 60
+  }
+]
